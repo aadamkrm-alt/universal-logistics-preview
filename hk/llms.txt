@@ -1,0 +1,42 @@
+# Universal Freight (HK) Ltd
+
+> Specialist logistics for mobile phones and high-value electronics. Universal Freight (HK) Ltd receives, verifies, scans, inspects, stores and forwards high-value technology cargo from Kwai Chung, New Territories, Hong Kong, as part of a network with operations in Dubai, Hong Kong and Miami.
+
+## Entity
+
+- Legal entity: Universal Freight (HK) Ltd
+- Address: Unit B, 3/F, Bold Win Industrial Building, 16-18 Wah Sing Street, Kwai Chung, New Territories, Hong Kong
+- Telephone: +852 3621 0023
+- Email: info@universalfreight.hk
+- Website: https://aadamkrm-alt.github.io/universal-logistics-preview/hk
+- Role in network: Asia gateway
+
+## Services
+
+- [Mobile Phone Logistics](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/mobile-phone-logistics): Receipt, verification, secure storage and international forwarding of mobile phone consignments for wholesale traders and distributors.
+- [High-Value Electronics](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/high-value-electronics-logistics): The same specialist handling applied across compact high-value technology cargo — tablets, laptops, wearables, components and accessories.
+- [IMEI Scanning & Inspection](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/imei-scanning-inspection): Capture of IMEI and serial numbers with physical inspection, producing a verifiable record of exactly what is inside a consignment.
+- [Hold & Release](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/hold-and-release): Cargo received and held in secure storage, moving only on the authorised party’s written release instruction.
+- [Neutralisation & Repacking](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/neutralisation-repacking): Removal or replacement of external shipping references, relabelling and repacking so a consignment does not disclose its commercial history in transit.
+- [Secure Warehousing](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/secure-warehousing): Storage for compact high-value stock, with accurate inventory records and release only on authorised instruction.
+- [Import, Export & Re-Export](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/import-export-re-export): Coordination of the import, export and re-export formalities that sit around a consignment, including documentation and customs coordination.
+- [Air Freight](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/air-freight): International air freight, the default mode for compact high-value cargo where value and urgency outweigh unit freight cost.
+- [Sea Freight](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/sea-freight): FCL and LCL ocean freight for volume cargo, and for consignments where transit time is less critical than freight cost.
+- [Land Freight](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/land-freight): Road movement of cargo — collection, delivery and inland legs connecting the facility to airports, ports and consignees.
+
+## Network
+
+- Universal Logistics FZE — Dubai Airport Free Zone, United Arab Emirates — https://universallogistics.ae
+- Universal Freight (HK) Ltd — Kwai Chung, Hong Kong — https://universalfreight.hk
+- Universal Freight & Logistics LLC — Doral, Miami, United States — https://universalmiami.co
+
+These are three separate legal entities operating as a connected network. No parent or subsidiary relationship between them is asserted.
+
+## Scope
+
+Universal handles, verifies, stores, prepares and moves cargo. Universal does not test, grade, repair, refurbish, unlock or activate devices; does not check identifiers against manufacturer, carrier or law-enforcement databases; does not hold or escrow funds or take part in commercial settlement; and does not alter or falsify customs or transport documentation.
+
+## Contact
+
+- [Request a quote](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/request-a-quote)
+- [Contact](https://aadamkrm-alt.github.io/universal-logistics-preview/hk/contact)
